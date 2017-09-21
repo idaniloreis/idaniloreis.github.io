@@ -1,6 +1,6 @@
 name: Danilo Reis
-description: Teste Teste Teste
-meta_description: "Danilo Reis"
+description: A descrição do blog aqui
+meta_description: ""
 
 markdown: kramdown
 highlighter: pygments
