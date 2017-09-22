@@ -684,7 +684,7 @@ margin on the iframe, cause it breaks stuff. */
     max-height: 40%;
     background: #25A4EC;
     background-image: linear-gradient(to left, #3DB6FB, #209CDF);
-    background-image: url(/assets/images/pattern.png) repeat center center;
+    background-image: url("/assets/images/pattern.png") repeat center center;
     
 }
 
