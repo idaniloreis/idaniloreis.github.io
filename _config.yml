@@ -14,3 +14,6 @@ gems: [jekyll-paginate]
 # Details for the RSS feed generator
 url:            'http://idaniloreis.github.io'
 author:         'Danilo Reis'
+
+# Definindo o Permalink
+permalink: /:category/:title
