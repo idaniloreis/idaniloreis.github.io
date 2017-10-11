@@ -11,6 +11,12 @@ domain_name: 'http://yourblog-domain.com'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
+# Links Bases
+links:
+  - title: Home
+    url: /
+    
+    
 # Details for the RSS feed generator
 url:            'http://idaniloreis.github.io'
 author:         'Danilo Reis'
