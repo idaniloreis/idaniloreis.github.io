@@ -1116,10 +1116,7 @@ body:not(.post-template) .post-title {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     display: block;
-    position: absolute;
-    top: -40px;
-    left: 50%;
-    margin-left: -40px;
+    margin-right: 10px;
     width: 80px;
     height: 80px;
     border-radius: 100%;
@@ -1128,6 +1125,7 @@ body:not(.post-template) .post-title {
     background: #fff;
     z-index: 2;
     box-shadow: #E7EEF2 0 0 0 1px;
+    float: left;
 }
 
 .author-image .img {
