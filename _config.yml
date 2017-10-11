@@ -15,6 +15,7 @@ gems: [jekyll-paginate]
 links:
   - title: Home
     url: /
+    baseurl: /
     
     
 # Details for the RSS feed generator
