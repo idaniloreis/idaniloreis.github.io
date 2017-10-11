@@ -14,7 +14,8 @@ gems: [jekyll-paginate]
 # Links Bases
 links:
   - title: Home
-    url: /
+    url: "http://idaniloreis.github.io"
+
     
     
 # Details for the RSS feed generator
